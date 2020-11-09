@@ -1,0 +1,12 @@
+@import "config";
+
+body {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 82.9%;
+  color: $text;
+  position: relative;
+  overflow-x: hidden;
+  min-width: 320px;
+}
